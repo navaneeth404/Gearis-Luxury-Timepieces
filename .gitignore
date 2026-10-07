@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+client/node_modules/
+admin/node_modules/
+server/node_modules/
+
+# Environmental secrets
+.env
+server/.env
+
+# Editor and system files
+.DS_Store
+.vscode/
+dist/
+build/
